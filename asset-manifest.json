@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React/digital-watch/static/css/main.a7844257.css",
+    "main.js": "/React/digital-watch/static/js/main.350dace5.js",
+    "index.html": "/React/digital-watch/index.html",
+    "main.a7844257.css.map": "/React/digital-watch/static/css/main.a7844257.css.map",
+    "main.350dace5.js.map": "/React/digital-watch/static/js/main.350dace5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7844257.css",
+    "static/js/main.350dace5.js"
+  ]
+}
